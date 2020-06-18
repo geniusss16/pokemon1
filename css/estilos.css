@@ -1,10 +1,11 @@
-aside { float:  right; 
-
+.box-1{ 
+    
+  font-weight: bold;
+font-size: 25px;
 }
+.numero-del-pokemon{
 
-header  { background-color: orange;
+color: darkgray;
+font-weight: bold;
+font-size: 25px;
 }
-
-body    { background-image: url("12.jpg");
-}
-  
